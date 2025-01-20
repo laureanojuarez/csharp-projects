@@ -91,9 +91,6 @@ namespace Calculadora_Basica
 
         private void btnEqual_Click(object sender, EventArgs e)
         {
-            //valor2 = Convert.ToInt64(tbDisplay.Text);
-            //tbDisplay.Text = Convert.ToString(valor1 + valor2);
-
             switch (operador)
             {
                 case 0:
